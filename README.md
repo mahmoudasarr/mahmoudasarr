@@ -1,16 +1,41 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm a Cybersecurity Student</h1>
+<h3 align="center">Aspiring Ethical Hacker | Bug Bounty Learner | Fedora User</h3>
 
-<!--
-**mahmoudasarr/mahmoudasarr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🔭 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Studying at **MUST** (Misr University for Science and Technology) — Faculty of Information Technology
+- 🛡️ Learning **Cyber Security (Bug Bounty & Ethical Hacking)** — OWASP Top 10, recon/OSINT, auth bypass, XSS, path traversal, HTTP smuggling, and more
+- 🌱 Currently exploring **Network Security**
+- 🐧 Daily driver: **Fedora Linux** (dual boot with Windows)
+- 🔐 Privacy-conscious — big believer in tools like VPNs, hardened phones, and minimal data footprint
+- 📄 Certified: **Cisco Fundamentals of Cybersecurity**
+
+---
+
+### 🧰 Tools & Technologies
+
+![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+---
+
+### 📌 Featured Project
+
+**[New-Fedora-Setup](#)** — An automated post-install setup script for Fedora Linux, handling GPU drivers, dev environment, security tools, and cleanup in one run.
+
+---
+
+### 📫 Connect with Me
+
+<!-- Add your links here, e.g.: -->
+<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-link) -->
+
+---
+
+<p align="center"><i>Always learning, always breaking things (ethically) 🔓</i></p>
