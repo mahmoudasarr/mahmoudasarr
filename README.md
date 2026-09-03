@@ -7,7 +7,6 @@
 
 - 🎓 Studying **Information Technology (IT)** at **MUST** (Misr University for Science and Technology)
 - 🛡️ Learning **Cyber Security (Bug Bounty & Ethical Hacking)** — OWASP Top 10, recon/OSINT, auth bypass, XSS, path traversal, HTTP smuggling, and more
-- 🌱 Currently exploring **Network Security**
 - 🔐 Privacy-conscious — big believer in tools like VPNs, hardened phones, and minimal data footprint
 - 📄 Certified: **Cisco Fundamentals of Cybersecurity**
 
