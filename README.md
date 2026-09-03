@@ -24,11 +24,6 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 
----
-
-### 📌 Featured Project
-
-**[New-Fedora-Setup](#)** — An automated post-install setup script for Linux, handling GPU drivers, dev environment, security tools, and cleanup in one run.
 
 ---
 
