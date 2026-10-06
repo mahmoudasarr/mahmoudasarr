@@ -5,7 +5,7 @@
 
 ### 🔭 About Me
 
-- 🎓 Studying **Information Technology (IT)** at **MUST** (Misr University for Science and Technology)
+- 🎓 Studying **Computer Science (CS)** at **MUST** (Misr University for Science and Technology)
 - 🛡️ Learning **Cyber Security (Bug Bounty & Ethical Hacking)** — OWASP Top 10, recon/OSINT, auth bypass, XSS, path traversal, HTTP smuggling, and more
 - 🔐 Privacy-conscious — big believer in tools like VPNs, hardened phones, and minimal data footprint
 - 📄 Certified: **Cisco Fundamentals of Cybersecurity**
@@ -15,7 +15,7 @@
 ### 🧰 Tools & Technologies
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
