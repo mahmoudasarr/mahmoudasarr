@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm a Cybersecurity Student</h1>
+<h1 align="center">Hi 👋, I'm a CS Student</h1>
 <h3 align="center">Aspiring Ethical Hacker | Bug Bounty Learner | Linux Enthusiast</h3>
 
 ---
